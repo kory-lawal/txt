@@ -1,0 +1,82 @@
+title: bookit
+
+first page:
+h1: wlecome to uni map 
+login button
+
+don't have an account? sign in
+
+login page:
+profile pic with the user name
+
+H2: your booked venue
+venue: pf
+time: 10:00 - 12:00 
+course: cps 305
+
+h2: list of avliable venue and booked venue 
+button 1: booke your venue
+button 2: booked venue 
+
+button 1:
+h2: what venue will you be booking today
+shearch button: //placeholder shearch for you venue
+
+list of venues 
+1.PF
+2.LT
+3.LR1
+
+pop box when clicked on a venue:
+time:
+course
+h3: click the book button
+button: DONE
+
+pop box after clicking done:
+successful ✔
+
+After it shows successful it should go back to you profile:
+profile pic with the user name
+
+H2: your booked venue
+venue: pf
+time: 10:00 - 12:00 
+course: cps 305
+
+h2: list of avliable venue and booked venue 
+button 1: booke your venue
+button 2: booked venue
+
+signin page:
+let's get started
+
+name: lawal
+derpartment: cps
+level: 200level
+matric number: fuo/00/000
+email: korylawak@email.com
+
+button: done
+
+pop box after clicking done:
+your ditalies are been verified we will send you a mail when your it done verified this might take a while 
+
+after that it should go back to the first page:
+if the user try to log in when it has not been verified it should say this 
+
+H3: your detailes are still being verified 
+
+what should be in the tabs:
+home
+about 
+profile
+contacts
+
+updates for bookit  
+1. puch notification:implement puch notifications to alert class reps about booking confirmations, cancellation or changes.
+2. lecture hall details: include addtional details about each lecture hall, such as photo, capacity, lections or equipment. 
+3. reviwes and rating: allowing class rep to rate and reviews lecture halls, helping other make informed decisions.
+4. user feedback and support: implement a feedback system, allowing users to report issues or suggest new features.
+5. security enhancements.
+6. color theme: each user can choose the color they want for the app
